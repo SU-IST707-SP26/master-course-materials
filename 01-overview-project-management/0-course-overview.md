@@ -16,13 +16,13 @@ If you do not have this experience, please talk to me.
   * The assignment will include lab materials, study questions, and a homework assignment to be submitted before the next class
   * I will commit a "feedback.md" file with your grade on the assignment and update your grade on blackboard
 * You are expected to review lecture materials for the week  _before_ class
-* Readings from the book are chosen to enhance and support materials from the notebooks.
+* Readings from the book are chosen to enhance and support materials from the notebooks, but are optional.
 * I will call on several people randomly in each class to ask questions from the materials for the week. Yur answers will determine your participation grade. You will be penalized if you are not present.  The "questions.md" file in each weekly assignment folder will indicate the kinds of questions I am likely to ask.
   * Class attendance is mandatory. Any student not in class will receive -1 on their participation grade.
 * There is one large group project that will require weekly effort
   * Updates to the WORKLOG and WORKPLAN as well as fresh commits to the project repository are required on a weekly basis (see below).
-* Class time will be split between lecture and lab.
-  * Lectures will be driven in part by your questions; there is far more material in the notebooks than can be covered in class.  This is by design.
+* Class time will be split between Q\&A and lab.
+  * What we cover in class will be driven in part by your questions; there is far more material in the notebooks than can be covered in class.  This is by design.
   * Class work will be done in pairs
 
 
@@ -53,7 +53,8 @@ If you do not have this experience, please talk to me.
 | Weekly assignments |  | 40 |
 | Participation $^*$|  | 10  |
 | Project | Proposal | 5 |
-|  | Weekly Updates | 40 |
+|  | Weekly Updates | 30 |
+|  | Midterm Report | 10 |
 |  | Presentation | 5 |
 |  | Final Report | 30 |
 | Total |  | 130 |
@@ -68,12 +69,18 @@ If you do not have this experience, please talk to me.
 * __Class Pariticpation__
   * If you are absent from class, you will receive a -1 on your participation score
   * Absences may be excused for legitimate reasons if I am notified before class
-  * Over the semester, I will call on you 3-5 times. The quality of your responses will determine your participation grade. Responses like "I don't know" will never receive credit.
+  * Over the semester, I will call on you 5-10 times. The quality of your responses will determine your participation grade. Responses like "I don't know" will never receive credit.
   
 * __Group project__
-  * Substantive updates to WORKLOG.md and WORKPLAN.md every week.
-    * Each update is worth 4 points; minimal updates will receive fewer points
-  * All members of any groups that disintegrate will lose 2 points from their final submission
+    - **Teams:** 3-5 students (self-selected)
+    - **Weekly commits required:** Commits to the GitHub repository are *critical*. Each update is worth 4 points. Even excellent final submissions will receive bad grades if regular updates are not made to the project managment files.
+    - **Individual contributions:** Weekly update scores are assigned individually and based on evidence of participation assessed via commit logs and project documentation updates. Regular, individual code commits are expected. Individual participation in the group project is worth roughly 23% of your final grade. 
+    - **Components:**
+        - Proposal with stakeholder analysis
+        - Weekly WORKLOG.md and WORKPLAN.md updates and associated commits.
+        - Mid-term presentation
+        - Final presentation
+        - Comprehensive, non-AI generated report in GitHub-flavored Markdown
 
 * __Plagiarism__
   * Individual assignments that are substantially the same or copy from other sources will be given a 0.
@@ -91,7 +98,7 @@ If you do not have this experience, please talk to me.
 
 ## Tools / Textbook
 
-* Text: [Hands\-on Machine Learning with Scikit\-Learn\, Keras\, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975/ref=dp_ob_title_bk) – 3rd Edition
+* Text (optional): [Hands\-on Machine Learning with Scikit\-Learn\, Keras\, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975/ref=dp_ob_title_bk) – 3rd Edition
 * Blackboard for announcements and links
 * Email for communication
   * Please begin your subject line with [IST707] for all emails about the the course.
@@ -103,9 +110,9 @@ If you do not have this experience, please talk to me.
 # CITRA Research Extra Credit
 
 * This course participates in the Communication\, Information\, and Technology Research Alliance \(CITRA\) Research Pool
-* You can apply up to 4 CITRA credits to receive extra credit in this course
+* You can apply up to 6 CITRA credits to receive extra credit in this course
   * Each CITRA credit roughly corresponds to 30 min of work
-  * Each CITRA credit is worth 1 point (up to 3%)
+  * Each CITRA credit is worth .5 point (up to 3 points)
 * See the syllabus for additional detail
 
 
